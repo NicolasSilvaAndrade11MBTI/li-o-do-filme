@@ -1,0 +1,30 @@
+body {
+    background-color: aliceblue;
+}
+
+img {
+    width: 22%;
+
+
+}
+
+.indroducao img {
+    position: relative;
+   width: auto;
+   display: block;
+   margin: auto;
+   padding: 20px;
+   width: 40px;
+}
+
+.introducao {
+
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  text-align: center;
+}
+
+h3 {
+    color: red;
+}
+
